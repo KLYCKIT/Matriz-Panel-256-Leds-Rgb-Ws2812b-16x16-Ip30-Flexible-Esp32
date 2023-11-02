@@ -7,5 +7,19 @@ Características:
 • LEDs 256 RGB NeoPixel 5050 WS2812
 • Tensión de Alimentación: 5 VDC
 
+DIAGRAMA DE CONEXION:
 ![image](https://github.com/KLYCKIT/Matriz-Panel-256-Leds-Rgb-Ws2812b-16x16-Ip30-Flexible-Esp32/assets/83427440/6713c102-07e4-4fcf-a1a2-4cd32f6c8d6b)
 
+LIBRERIAS
+
+NEOPIXEL
+https://github.com/adafruit/Adafruit_NeoPixel
+
+NEOMATRIX
+https://github.com/adafruit/Adafruit_NeoMatrix
+
+FASTLED
+https://github.com/FastLED/FastLED
+
+Uso basico de la libreria FASTLED
+https://github.com/FastLED/FastLED/wiki/Basic-usage
