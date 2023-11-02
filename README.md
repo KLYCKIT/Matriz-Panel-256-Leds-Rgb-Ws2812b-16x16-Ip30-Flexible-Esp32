@@ -7,4 +7,5 @@ Características:
 • LEDs 256 RGB NeoPixel 5050 WS2812
 • Tensión de Alimentación: 5 VDC
 
+![image](https://github.com/KLYCKIT/Matriz-Panel-256-Leds-Rgb-Ws2812b-16x16-Ip30-Flexible-Esp32/assets/83427440/6713c102-07e4-4fcf-a1a2-4cd32f6c8d6b)
 
